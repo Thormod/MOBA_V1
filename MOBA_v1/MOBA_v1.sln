@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{765C18FC-6D93-AD67-933A-362A7B828E0F}") = "MOBA_v1", "Assembly-CSharp.csproj", "{15AA1511-2EAA-ED46-FCC3-32338D26FD2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15AA1511-2EAA-ED46-FCC3-32338D26FD2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15AA1511-2EAA-ED46-FCC3-32338D26FD2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15AA1511-2EAA-ED46-FCC3-32338D26FD2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15AA1511-2EAA-ED46-FCC3-32338D26FD2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
